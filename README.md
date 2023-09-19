@@ -34,7 +34,6 @@ To reproduce the Exploratory Data Analysis on Popular Songs, follow these steps:
 
 5. **Visualization**:
    - Create visualizations (e.g., bar charts, word clouds) to communicate the results effectively.
-   - 
 
 ## Dependencies
 
